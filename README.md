@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @palacee
-- 👀 I’m interested in ... Everything.
+- 👀 I’m interested in.. Everything.
 
 <!---
 palacee/palacee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
