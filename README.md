@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @hAxiiT
-- 👀 I’m interested in.. Everything.
+Welcome to my GitHub profile!
 
 <!---
 palacee/palacee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
